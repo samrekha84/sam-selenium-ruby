@@ -5,6 +5,8 @@
 [![StackOverflow](http://img.shields.io/badge/Stack%20Overflow-Ask-blue.svg)]( https://stackoverflow.com/users/31014129/sampath-kumar )
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![email me](https://img.shields.io/badge/Contact-Email-green.svg)](mailto:samshree84@gmail.com)
+[![Initial Folder Structure](https://drive.google.com/file/d/112hYGa4c4-ngq8OgBUfxa8bYh_4aePoj/view?usp=sharing)]
+
 
 ![alt text](libraries/selenium_handcrafted_framework.png)
 
